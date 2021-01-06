@@ -80,7 +80,7 @@ Repo link: https://github.com/OSL-Works/Steam-Card-Bot-PRO
 	GEMS:
 	{
 		
-		BUY1KEYFORAMOUNTOFGEMSCSGO : 15000, // For instance; if you set to 6000 , you sell 6000 gems for 1 CS:GO Key.
+		BUY1KEYFORAMOUNTOFGEMSCSGO : 10, // For instance; if you set to 6000 , you sell 6000 gems for 1 CS:GO Key.
 		BUY1KEYFORAMOUNTOFGEMSHYDRA : 5900, // For instance; if you set to 10000 , you sell 10000 gems for 1 HYDRA Key.
 		BUY1KEYFORAMOUNTOFGEMSTF2 : 8000, // For instance; if you set to 8000 , you sell 8000 gems for 1 TF 2 Key.
 		
